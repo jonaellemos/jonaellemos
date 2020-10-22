@@ -1,6 +1,6 @@
 # Hi, I'm Jonael Lemos! ✨
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=pink&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/jonaellemos/) [![Gmail Badge](https://img.shields.io/badge/-jonaellemosdev@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:jonaellemosdev@gmail.com)](mailto:jonaellemosdev@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/jonaellemos/) [![Gmail Badge](https://img.shields.io/badge/-jonaellemosdev@gmail.com-c14438?style=flatsquare&logo=Gmail&logoColor=white&link=mailto:jonaellemosdev@gmail.com)](mailto:jonaellemosdev@gmail.com)
 
 ## About me
 
