@@ -7,7 +7,7 @@
 
 💻 <strong>I'm a Fullstack Developer.</strong> 
 
-👣 I'm 30 Years Old.
+👣 I'm 32 Years Old.
 
 🌍 I live in Fortaleza - CE.
 
