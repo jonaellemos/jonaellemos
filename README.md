@@ -18,7 +18,7 @@
 **Language:**
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/jonaellemos/)](https://github.com/jonaellemos/) 
-
+[![Java](https://img.shields.io/badge/-Java?style=flat-square&logo=java&link=https://github.com/jonaellemos/)](https://github.com/jonaellemos/)
 ##
 
 **Front-end:**
