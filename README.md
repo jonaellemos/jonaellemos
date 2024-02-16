@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonael Lemos</h1>
-<h3 align="center">❤ I'm passionate about technology, front-end development, inovation and possibilities. 🎯🚀</h3>
+<h3 align="center">❤ I'm passionate about technology, back-end development, inovation and possibilities. 🎯🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonaellemos&label=Profile%20views&color=0e75b6&style=flat" alt="jonaellemos" /> </p>
 
